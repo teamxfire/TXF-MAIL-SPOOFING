@@ -24,8 +24,8 @@
   
   
  Features:  
- - 1) FULL UI
- - 2) NO SPAM
+ - 1) Full Ui
+ - 2) No Spam
  - 3) Unlimited Mail Send
  - 4) Support All Version 
   
