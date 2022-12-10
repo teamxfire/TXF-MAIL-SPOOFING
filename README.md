@@ -38,6 +38,6 @@
   
   
  ## Download  
- <a href="https://github.com/teamxfire/TXF-MAIL-SPOOFING/blob/main/TXF%20MAIL%20SPOOFING%201.0.apk">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/TXF-MAIL-SPOOFING/raw/main/TXF%20MAIL%20SPOOFING%201.0.apk">DOWNLOAD NOW</a> 
  
 
