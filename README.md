@@ -2,9 +2,8 @@
 
   We are the first in Bangladesh to make such an app and provide it for free.
    
- ![Logo](1670664827860.png) 
- ![Logo](1670664892920.png)
- ![Logo](1670664820011.png)
+ ![Logo](photo_2_2023-07-03_00-26-41.jpg) 
+ ![Logo](photo_3_2023-07-03_00-26-41.jpg)
   
   
   
@@ -38,6 +37,6 @@
   
   
  ## Download  
- <a href="https://github.com/teamxfire/TXF-MAIL-SPOOFING/raw/main/TXF%20MAIL%20SPOOFING%201.0.apk">DOWNLOAD NOW</a> 
+ <a href="https://github.com/teamxfire/TXF-MAIL-SPOOFING/blob/main/TXF%20MAIL%20SPOOFING%20.apk">DOWNLOAD NOW</a> 
  
 
